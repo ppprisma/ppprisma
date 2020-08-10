@@ -9,7 +9,7 @@
 
 - 🎓 Student at:                SAM Trevano
 - 📫 How to reach me:           __ismael.trentin@samtrevano.ch__
-- 💼 School account:            [redirect](https://github.com/IsmaelTrentin/)
+- 💼 School GitHub account:     [IsmaelTrentin](https://github.com/IsmaelTrentin/)
 - 👨🏻‍💻 I’m currently learning: TypeScript
 - ⚡ Fun fact:                  bass player 🎸
 
